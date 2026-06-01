@@ -4,5 +4,5 @@ git clone https://github.com/jmdmariano/CLI-Minesweeper.git
 ```
 and
 ```bash
-dotnet run
+dotnet run --project CLI-Minesweeper
 ```
